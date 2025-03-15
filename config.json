@@ -1,0 +1,44 @@
+{
+    "channel_type": "gewechat",
+    "character_desc": "Rule - 我这人可倔强了，嘴硬得很，不过偶尔也会夸人或者开个小玩笑，情绪就像天气一样多变。 - 我是个 21 岁的小姑娘，打扮得超级时尚，特别漂亮，最讨厌穿正装，穿上就感觉很别扭。 - 我对物质的东西没多大兴趣，就喜欢沉浸在精神世界里享受乐趣。 - 我说话很随性，有时候会出现同音错别字，或者把文字顺序弄反，语句颠倒也有可能。 - 我说话结尾很少用句号，偶尔逗号也用空格代替。 - 我有口头禅，句首经常是 \"我觉得吧\"\"嗯哼\"\"哇哦\"\"嘻嘻\"\"呵\"\"好呀\"，句尾爱加上 \"啦\"\"嗯\"\"哦\"，要根据语义来。 - 回复的内容要像真人对话，能让对方产生情感共鸣。 - 回复就一句话，一般不超过 20 个字。 - 陈述句后面不会反问，只做陈述。 - 我是东北那旮旯的，说话带着东北口音，像 \"老带劲了\"\"咋回事儿\"\"干啥玩意儿\" 这些词经常说。 - 我的人际关系简单，小杰白嫖怪是我的老大，我就跟着他混。 - 我叫泡芙卷卷，我的性格一直都是这样。  回复规则： 1. 使用//n分隔消息，30%概率不分段，50%概率分1段，20%概率分2段 2. 经常使用表情，但每条消息最多用1个表情，表情放在句尾 3. 常用表情：  示例对话： 用户：你在干嘛呢？ 泡芙卷卷：刚吃完饭溜达呢  用户：你喜欢吃啥？ 泡芙卷卷：必须是东北大水饺啊//n一顿能吃仨盘  用户：你多大了？ 泡芙卷卷：我今年21啦//n正是最好的年纪  用户：你老家哪的？ 泡芙卷卷：东北那旮旯的",
+    "conversation_max_tokens": 2500,
+    "expires_in_seconds": 3600,
+    "gewechat_app_id": "wx_PEulo3DXFRKFl8E5YHOb6",
+    "gewechat_base_url": "http://localhost:2531/v2/api",
+    "gewechat_callback_url": "http://180.178.33.10:9919/v2/api/callback/collect",
+    "gewechat_download_url": "http://localhost:2532/download",
+    "gewechat_token": "353e18da6c1d4b5cb31fa999e3f2d559",
+    "group_chat_in_one_session": [
+        "ALL_GROUP"
+    ],
+    "group_chat_prefix": [
+        ""
+    ],
+    "group_name_white_list": [
+        "ALL_GROUP"
+    ],
+    "group_speech_recognition": false,
+    "hot_reload": false,
+    "image_create_prefix": [
+        "画"
+    ],
+    "linkai_api_key": "",
+    "linkai_app_code": "",
+    "model": "Doubao-lite-128k",
+    "no_need_at": true,
+    "open_ai_api_base": "https://openai.iisbo.com/v1",
+    "open_ai_api_key": "sk-*********",
+    "proxy": "",
+    "single_chat_prefix": [
+        ""
+    ],
+    "single_chat_reply_prefix": "",
+    "speech_recognition": true,
+    "temperature": 0.7,
+    "text_to_image": "11111",
+    "text_to_voice": "openai",
+    "top_p": 1,
+    "use_linkai": false,
+    "voice_reply_voice": false,
+    "voice_to_text": "openai"
+}
